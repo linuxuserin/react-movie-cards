@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6ff417b40d0506a19d47d42e6e74bd5",
+    "revision": "e05f8bd76cc926dac03b71c11e2f3aeb",
     "url": "/react-movie-cards/index.html"
   },
   {
-    "revision": "de6862f3fe0399e90cb9",
+    "revision": "d7be38837d6e889a8eb3",
     "url": "/react-movie-cards/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "8cba84f380b63f1e2c58",
+    "revision": "fb65006b6a0b872647f0",
     "url": "/react-movie-cards/static/css/main.88921836.chunk.css"
   },
   {
-    "revision": "de6862f3fe0399e90cb9",
-    "url": "/react-movie-cards/static/js/2.48af9024.chunk.js"
+    "revision": "d7be38837d6e889a8eb3",
+    "url": "/react-movie-cards/static/js/2.2d42bdd2.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-movie-cards/static/js/2.48af9024.chunk.js.LICENSE.txt"
+    "url": "/react-movie-cards/static/js/2.2d42bdd2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8cba84f380b63f1e2c58",
-    "url": "/react-movie-cards/static/js/main.64e5cb71.chunk.js"
+    "revision": "fb65006b6a0b872647f0",
+    "url": "/react-movie-cards/static/js/main.a0eb923b.chunk.js"
   },
   {
     "revision": "fe722b89356b21fab6a8",
