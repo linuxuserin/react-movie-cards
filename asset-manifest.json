@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/react-movie-cards/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-movie-cards/static/js/main.424b72ec.chunk.js",
-    "main.js.map": "/react-movie-cards/static/js/main.424b72ec.chunk.js.map",
+    "main.css": "/react-movie-cards/static/css/main.88921836.chunk.css",
+    "main.js": "/react-movie-cards/static/js/main.64e5cb71.chunk.js",
+    "main.js.map": "/react-movie-cards/static/js/main.64e5cb71.chunk.js.map",
     "runtime-main.js": "/react-movie-cards/static/js/runtime-main.70d60688.js",
     "runtime-main.js.map": "/react-movie-cards/static/js/runtime-main.70d60688.js.map",
-    "static/js/2.f806cc9e.chunk.js": "/react-movie-cards/static/js/2.f806cc9e.chunk.js",
-    "static/js/2.f806cc9e.chunk.js.map": "/react-movie-cards/static/js/2.f806cc9e.chunk.js.map",
+    "static/css/2.89f067aa.chunk.css": "/react-movie-cards/static/css/2.89f067aa.chunk.css",
+    "static/js/2.48af9024.chunk.js": "/react-movie-cards/static/js/2.48af9024.chunk.js",
+    "static/js/2.48af9024.chunk.js.map": "/react-movie-cards/static/js/2.48af9024.chunk.js.map",
     "index.html": "/react-movie-cards/index.html",
-    "precache-manifest.ee836ee317faf032f4c1d7147c845497.js": "/react-movie-cards/precache-manifest.ee836ee317faf032f4c1d7147c845497.js",
+    "precache-manifest.7c2577cc13fc0857957d66fca120a2b3.js": "/react-movie-cards/precache-manifest.7c2577cc13fc0857957d66fca120a2b3.js",
     "service-worker.js": "/react-movie-cards/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-movie-cards/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f806cc9e.chunk.js.LICENSE.txt": "/react-movie-cards/static/js/2.f806cc9e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-movie-cards/static/media/logo.5d5d9eef.svg"
+    "static/css/2.89f067aa.chunk.css.map": "/react-movie-cards/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.88921836.chunk.css.map": "/react-movie-cards/static/css/main.88921836.chunk.css.map",
+    "static/js/2.48af9024.chunk.js.LICENSE.txt": "/react-movie-cards/static/js/2.48af9024.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.70d60688.js",
-    "static/js/2.f806cc9e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.424b72ec.chunk.js"
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.48af9024.chunk.js",
+    "static/css/main.88921836.chunk.css",
+    "static/js/main.64e5cb71.chunk.js"
   ]
 }
