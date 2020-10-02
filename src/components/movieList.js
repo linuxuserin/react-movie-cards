@@ -12,7 +12,13 @@ const getMovies = (movies) => {
 };
 
 const MovieList = (props) => {
-  return <div>{getMovies(props.movies)}</div>;
+  return (
+    <div>
+      {props.movies === undefined
+        ? "You haven't entered any queries"
+        : getMovies(props.movies)}
+    </div>
+  );
 };
 
 export default MovieList;

@@ -34,7 +34,7 @@ class App extends Component {
     e.preventDefault();
     //fetch repos
     fetch(
-      `http://www.omdbapi.com/?apikey=ed29cefd&y=&plot=short&r=json&s=` +
+      `http://www.omdbapi.com/?apikey=ed29cefd&y=&plot=short&r=json&page=1-100&s=` +
         this.state.movieSearch
     )
       .then((response) => response.json())
@@ -55,7 +55,11 @@ class App extends Component {
           HandleSearch={this.HandleSearch}
         />
         <main className="container">
-          <MovieList movies={this.state.imdbMovies} />
+          {this.state.movieSearch === "" ? (
+            "Movies will appears here"
+          ) : (
+            <MovieList movies={this.state.imdbMovies} />
+          )}
           {/* <MovieList movies={this.state.movies} /> */}
         </main>
       </div>
